@@ -1,0 +1,10 @@
+{
+    "name": "petrik14s/szalai_szabolcs",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Petrik14s\\SzalaiSzabolcs\\Halloween\\": "src/"
+        }
+    },
+    "require": {}
+}
